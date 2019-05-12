@@ -1,5 +1,3 @@
-import React from 'react';
-
 export const CalculateWinner = (squares) => {
     // Define an array of tictactoe square indexes for wins
     const lines = [
@@ -20,6 +18,6 @@ export const CalculateWinner = (squares) => {
         return squares[a];
         }
     }
-    
+
     return null;
 }
