@@ -1,4 +1,4 @@
-# Tic Tac Toe with React
+# TicTacToe with React
 
 ## Prerequisites:
 
